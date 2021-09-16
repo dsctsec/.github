@@ -1,5 +1,6 @@
-# .github - a new GitHub profile for organizations.
+# .github 
 
-<br><br>
+- A new GitHub profile for organizations.
 
-- GDSC TSEC's [GitHub Profile](/profile)
+
+### View GDSC TSEC's [GitHub Profile](/profile)
